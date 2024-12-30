@@ -65,9 +65,25 @@
         </div>
     </nav>
     <!-- Navbar End -->
+     <section class="container-fluid py-5 bg-light">
+     <section class="container text-center">
+    <div class="row">
+        <div class="col-12">
+            <h2>Quick Facts</h2>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-6">
+            <img src="assets/images/depositphotos_175999684-stock-photo-high-angle-view-woman-home.jpg" class="img-fluid" alt="Website Image">
+        </div>
+        <div class="col-6">
+            <img src="assets/images/istockphoto-1388719795-612x612.jpg" class="img-fluid" alt="Website Image">
+        </div>
+    </div>
+    
+</section>
 
     <!-- Images -->
-    <img src="assets/images/website.webp" class="img-fluid" alt="Website Image">
     <!-- Optional Bootstrap JS -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
