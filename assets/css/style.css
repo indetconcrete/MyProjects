@@ -1,50 +1,27 @@
-/* style.css */
+/* Additional custom styling (optional) */
+.navbar-brand {
+    font-weight: bold;
+}
 
+.nav-link {
+    text-transform: capitalize;
+}
+
+.cart-icon {
+    font-size: 1.5rem;
+}
+
+.search-bar {
+    width: 100%;
+    max-width: 300px;
+}
+.text-center {
+    text-align: center;
+    padding: 50px 20px;
+}
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
     margin: 0;
     padding: 0;
-}
-
-header {
-    background-color: #333;
-    color: #fff;
-    padding: 10px 0;
-    text-align: center;
-}
-
-header nav ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
-
-header nav ul li {
-    display: inline;
-    margin: 0 15px;
-}
-
-header nav ul li a {
-    color: #fff;
-    text-decoration: none;
-}
-
-footer {
-    text-align: center;
-    padding: 10px;
-    background-color: #333;
-    color: #fff;
-}
-
-section {
-    padding: 20px;
-    margin: 20px;
-}
-
-button {
-    padding: 10px 20px;
-    background-color: #333;
-    color: #fff;
-    border: none;
 }
